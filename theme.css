@@ -1,0 +1,437 @@
+div.content {
+  background-color: #2e3440;
+  font-family: Maplestory;
+}
+
+div.container-main {
+  background-color: #2e3440;
+}
+
+footer.container-footer {
+  background-color: #3b4252;
+}
+
+p.text-footer.footer-note {
+  font-family: Maplestory;
+  color: #b7b7b7;
+}
+
+ul.row.footer-links {
+  font-family: Maplestory;
+}
+
+button.input-dropdown-btn.dropdown-toggle.btn.btn-default {
+  font-family: Maplestory;
+}
+
+div.container-header.people-list-header {
+  font-family: Maplestory;
+}
+
+h3.ng-binding {
+  font-family: Maplestory;
+}
+
+div.simplebar-content-wrapper {
+  font-family: Maplestory;
+  background-color: #3b4252;
+}
+
+span.font-header-2.dynamic-ellipsis-item {
+  font-family: Maplestory;
+  color: #fff;
+}
+
+div h1 a {
+  font-family: Maplestory;
+  color: #fff;
+}
+
+div.rbx-left-col {
+  background-color: #3b4252;
+}
+
+div.font-header-2.dynamic-ellipsis-item {
+  font-family: Maplestory;
+  color: #fff;
+}
+
+div.container-fluid {
+  height: 40px;
+  background-color: #434c5e;
+  font-family: Maplestory;
+}
+
+input.form-control.input-field.new-input-field {
+  background-color: #2e3440;
+  font-family: Maplestory;
+}
+
+a.font-header-2.nav-menu-title.text-header {
+  font-family: Maplestory;
+  color: #ffffff;
+}
+
+span.rbx-text-navbar-right.text-header {
+  font-family: Maplestory;
+}
+
+div.section-content.profile-header-content.ng-scope {
+  font-family: div.content {   background-color: #2e3440;   font-family: Maplestory; }  div.container-main {   background-color: #2e3440; }  footer.container-footer {   background-color: #3b4252; }  p.text-footer.footer-note {   font-family: Maplestory; }  ul.row.footer-links {   font-family: Maplestory; }  button.input-dropdown-btn.dropdown-toggle.btn.btn-default {   font-family: Maplestory; }  div.container-header.people-list-header {   font-family: Maplestory; }  h3.ng-binding {   font-family: Maplestory; }  div.simplebar-content-wrapper {   font-family: Maplestory;   background-color: #3b4252; }  span.font-header-2.dynamic-ellipsis-item {   font-family: Maplestory; }  div h1 a {   font-family: Maplestory; }  div.rbx-left-col {   background-color: #3b4252; }  div.font-header-2.dynamic-ellipsis-item {   font-family: Maplestory; }  div.container-fluid {   height: 40px;   background-color: #434c5e;   font-family: Maplestory; }  input.form-control.input-field.new-input-field {   background-color: #2e3440;   font-family: Maplestory; }  a.font-header-2.nav-menu-title.text-header {   font-family: Maplestory; }  span.rbx-text-navbar-right.text-header {   font-family: Maplestory; };
+  background-color: #2e3440
+}
+
+div.section-content {
+  font-family: Maplestory;
+  background-color: #2e3440;
+}
+
+div.container-header {
+  font-family: Maplestory;
+  color: #fff;
+}
+
+div div h3 {
+  font-family: Maplestory;
+  color: #fff;
+}
+
+div.section.profile-collections.ng-scope {
+  font-family: Maplestory;
+  background-color: #2e3440;
+}
+
+img.asset-thumb-container.ng-isolate-scope {
+  background-color: #2e3440;
+}
+
+a.menu-option-content {
+  background-color: #2e3440;
+}
+
+div.container-list.layer.recommendations-container {
+  background-color: #2e3440;
+}
+
+img.ng-scope.ng-isolate-scope {
+  background-color: #3b4252;
+}
+
+h1.ng-binding.ng-scope {
+  font-family: Maplestory;
+}
+
+pre.get-more-text.ng-binding {
+  font-family: Maplestory;
+}
+
+div.item-card-thumb-container {
+  background-color: #2e3440;
+}
+
+h2.profile-name.text-overflow {
+  font-family: Maplestory;
+}
+
+div.profile-display-name.font-caption-body.text.text-overflow {
+  font-family: Maplestory;
+}
+
+pre.text.profile-about-text {
+  font-family: Maplestory;
+}
+
+button.btn-primary-md.ng-binding {
+  font-family: Maplestory;
+}
+
+button.profile-join-game.btn-growth-md.ng-binding {
+  font-family: Maplestory;
+}
+
+button.btn-alert-md.ng-binding {
+  font-family: Maplestory;
+}
+
+a.rbx-tab-heading {
+  background-color: #434c5e;
+}
+
+#bodySelectorContainer {
+  background-color: #434c5e;
+}
+
+div div img {
+  background-color: #434c5e;
+}
+
+img.item-card-thumb-container {
+  background-color: #434c5e;
+}
+
+li.stack-row.badge-row.ng-scope {
+  background-color: #3b4252;
+}
+
+li.stack-row.rbx-private-server-item {
+  background-color: #3b4252;
+}
+
+div.section.tab-server-only {
+  font-family: Maplestory;
+}
+
+span.play-with-others-text {
+  font-family: Maplestory;
+}
+
+span.private-server-price {
+  font-family: Maplestory;
+}
+
+li.stack-row.rbx-game-server-item {
+  background-color: #3b4252;
+}
+
+button.btn-control-sm.btn-full-width.rbx-private-servers-load-more {
+  font-family: Maplestory;
+}
+
+img.server-filters-icon {
+  background-color: #ffffff;
+}
+
+span.rbx-selection-label.ng-binding {
+  font-family: Maplestory;
+}
+
+div span img {
+  background-color: #2e3440;
+}
+
+a span img {
+  background-color: #3b4252;
+}
+
+div.arrow {
+  background-color: #2e3440;
+}
+
+div.spacer {
+  background-color: #2e3440;
+}
+
+div.scroller.prev.disabled {
+  background-color: #2e3440;
+}
+
+div.scroller.next {
+  background-color: #2e3440;
+}
+
+div.profile-avatar-mask {
+  background-color: #2e3440;
+}
+
+div.col-sm-6.text-overflow.slide-item-container-right.groups {
+  background-color: #3b4252;
+}
+
+div.col-sm-6.slide-item-container-left {
+  background-color: #3b4252;
+}
+
+a.carousel-control.left.ng-scope {
+  background-color: #3b4252;
+}
+
+a.carousel-control.right.ng-scope {
+  background-color: #3b4252;
+}
+
+div.col-sm-6.slide-item-container-right.games {
+  background-color: #3b4252;
+}
+
+textarea.dialog-input.ng-valid.ng-isolate-scope.ng-touched.ng-dirty.ng-empty {
+  font-family: Maplestory;
+}
+
+span.message-piece.font-caption-body.text-emphasis.ng-binding.ng-scope {
+  font-family: Maplestory;
+}
+
+span.font-footer.text-muted.indicated-message-bubble.ng-binding {
+  font-family: Maplestory;
+}
+
+span.font-caption-header.text-overflow.chat-header-title.dialog-header-title.ng-binding {
+  font-family: Maplestory;
+}
+
+span.font-caption-header.chat-header-title.ng-binding {
+  font-family: Maplestory;
+}
+
+input.input-field.chat-search-input.font-caption-body.ng-pristine.ng-untouched.ng-valid.ng-empty {
+  font-family: Maplestory;
+}
+
+span.small.text-title.text-overflow.font-caption-header.chat-friend-name.dynamic-ellipsis-item.ng-binding.read {
+  font-family: Maplestory;
+}
+
+span.ng-binding {
+  font-family: Maplestory;
+  color: #ffffff;
+}
+
+html {
+  background-color: #2e3440;
+}
+
+h2.login-header.ng-binding {
+  color: #ffffff;
+  font-family: Maplestory;
+}
+
+input.form-control.input-field.ng-pristine.ng-untouched.ng-valid.ng-empty {
+  background-color: #3b4252;
+}
+
+div.section-content.login-section {
+  color: #ffffff;
+}
+
+a.text-link.signup-link.ng-binding {
+  color: #4c566a;
+}
+
+a.text-link.ng-binding {
+  color: #4c566a;
+}
+
+button.btn-full-width.login-button.ng-binding.btn-secondary-md {
+  color: #ffffff;
+  font-family: Maplestory;
+}
+
+span.divider-text.xsmall.ng-binding {
+  background-color: #2e3440;
+  font-family: Maplestory;
+  font-size: 14px;
+}
+
+a.text-footer-nav {
+  color: #cccccc;
+}
+
+textarea.dialog-input.ng-valid.ng-isolate-scope.ng-not-empty.ng-dirty.ng-valid-parse.ng-touched {
+  font-family: Maplestory;
+}
+
+p.section-content-off {
+  background-color: #434c5e;
+}
+
+ul.section.rbx-friends-game-server-item-container.stack-list.section-content-off {
+  background-color: #434c5e;
+}
+
+ul.section.rbx-game-server-item-container.stack-list.section-content-off {
+  background-color: #434c5e;
+}
+
+div.navbar-fixed-top.rbx-header {
+  background-color: #434c5e;
+}
+
+a.font-header-2.rbx-navbar-login.nav-menu-title.rbx-menu-item {
+  color: #ffffff;
+}
+
+div.header-title {
+  color: #ffffff;
+}
+
+span.text-lead {
+  color: #ffffff;
+}
+
+div.game-card-name.game-name-title {
+  color: #fff;
+}
+
+a.btn-secondary-xs.btn-min-width.btn-more.see-all-link-icon {
+  color: #fff;
+}
+
+a.btn-secondary-xs.btn-more.see-all-link-icon.ng-binding {
+  color: #fff;
+}
+
+span.font-header-2.text-overflow.item-name {
+  color: #fff;
+}
+
+p.text-lead {
+  color: #fff;
+}
+
+a.btn-fixed-width.btn-secondary-xs.btn-more.see-all-link-icon {
+  color: #fff;
+}
+
+h1.friends-title {
+  font-family: Maplestory;
+}
+
+button.pager-btn {
+  background-color: #434c5e;
+}
+
+span.profile-accoutrements-page.page-active {
+  background-color: #434c5e;
+}
+
+pre.text.game-description.linkify {
+  font-family: Maplestory;
+}
+
+h2.game-name {
+  font-family: Maplestory;
+  color: #fff;
+}
+
+a.font-header-1 {
+  color: #fff;
+  font-family: Maplestory;
+}
+
+a.text-name {
+  color: #fff;
+}
+
+span.text-robux.text-free {
+  color: #fff;
+}
+
+a.text-link {
+  color: #fff;
+}
+
+html body h1 {
+  font-family: Maplestory;
+}
+
+body.btr-no-hamburger {
+  font-family: Maplestory;
+}
+
+div.text-overflow.item-card-name.ng-binding {
+  color: #ffffff;
+}
+
+h1.user-name-container {
+  padding-top: 45px;
+}
